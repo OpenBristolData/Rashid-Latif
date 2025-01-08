@@ -1453,10 +1453,9 @@ section,
   color: var(--default-color);
 }
 #about2 {
-  background-image: url("../img/hero-bg.jpg");
+  background-image: url("../img/hero-bg2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 50px 0; /* Adjust padding as needed */
-  color: #fff; /* Optional: Adjust text color for better contrast */
 }
